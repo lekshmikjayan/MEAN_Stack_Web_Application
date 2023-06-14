@@ -1,27 +1,34 @@
 # MeanCourse
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
+Full-stack web solution that leverages MongoDB, Express.js, Angular, and Node.js to enable efficient and scalable development of dynamic web applications with a NoSQL database backend and a responsive front-end user interface.
 
-## Development server
+## IMPORTANT FEATURES
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+* MongoDB: 
+      * A NoSQL database that stores data flexible and is used to persist application data and provides scalability and performance advantages.
+      
+* Express.js:
+      * A flexible Node.js web application framework that provides a robust set of features for building web applications and APIs. 
+      * It simplifies server-side development and handles routing, middleware, and HTTP requests.
+      
+* Angular: 
+      * JavaScript framework for building dynamic web applications.
+      * It provides a comprehensive set of tools and libraries for front-end development, including declarative templates, data binding, and dependency injection.
+     
+* Node.js:
+      *  It allows you to run JavaScript code outside the browser, making it ideal for server-side development. 
+      *  Node.js provides event-driven, non-blocking I/O capabilities and a vast ecosystem of modules.
 
-## Code scaffolding
+* Deployment: 
+     * This involves building the client-side code, setting up environment variables, and deploying to hosting platforms or server environments.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Server-side Code: 
+    * This includes the server-side logic implemented using Node.js and Express.js. 
+    * It involves defining routes, handling HTTP requests, connecting to the database, and performing business logic.
 
-## Build
+* Client-side Code: 
+    * This refers to the code executed in the browser using Angular. 
+    * It includes components, services, directives, and other Angular-specific constructs that handle user interactions, render views, and communicate with the server-side API.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
