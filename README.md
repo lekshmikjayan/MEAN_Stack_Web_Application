@@ -19,6 +19,9 @@ Full-stack web solution that leverages MongoDB, Express.js, Angular, and Node.js
       -  It allows you to run JavaScript code outside the browser, making it ideal for server-side development. 
       -  Node.js provides event-driven, non-blocking I/O capabilities and a vast ecosystem of modules.
 
+* RESTful APIs: 
+      - For standardized and stateless communication between the server and client MEAN stack applications commonly use RESTful APIs to expose data and functionality to client-side applications.
+
 * Deployment: 
      - This involves building the client-side code, setting up environment variables, and deploying to hosting platforms or server environments.
 
