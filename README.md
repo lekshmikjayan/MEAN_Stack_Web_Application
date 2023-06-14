@@ -1,8 +1,8 @@
-# MeanCourse
+## MeanCourse
 
 Full-stack web solution that leverages MongoDB, Express.js, Angular, and Node.js to enable efficient and scalable development of dynamic web applications with a NoSQL database backend and a responsive front-end user interface.
 
-## IMPORTANT FEATURES
+### IMPORTANT FEATURES
 
 * MongoDB is the NoSQL database that stores data flexible and is used to persist application data and provides scalability and performance advantages.  
 * Express.js is flexible Node.js web application framework that provides a robust set of features for building web applications and APIs. 
